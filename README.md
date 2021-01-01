@@ -4,7 +4,7 @@ courtesy to Mr. Athishaktham @ fundfolio :)
 
 original : https://play.google.com/store/apps/details?id=news.marketfeed.marketfeed
 
-Download & install marketfeed-clone apk file: <a href="demo/marketfeed.apk" download>Click to Download</a>
+Download & install marketfeed-clone apk file: [marketfeed.apk]({{file name='demo/marketfeed.apk'}})
 
 <p float="left">
 <img src="demo/demo.gif" width="300" height="600">
