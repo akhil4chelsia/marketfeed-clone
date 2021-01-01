@@ -1,10 +1,11 @@
-# marketfeed clone app
+# marketfeed clone app (using mock data)
 
 courtesy to Mr. Athishaktham @ fundfolio :) 
 
 original : https://play.google.com/store/apps/details?id=news.marketfeed.marketfeed
 
 Download & install marketfeed-clone apk file: <a href="demo/marketfeed.apk" download>Click to Download</a> or goto demo/marketfeed.apk and click download button.
+
 
 
 <p float="left">
